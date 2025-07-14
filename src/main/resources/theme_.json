@@ -1,0 +1,76 @@
+{
+  "name": "Tiago Minimal Dark",
+  "dark": true,
+  "author": "Tiago & Vik",
+  "parentTheme": "Darcula",
+  "editorScheme": "/colors/tiago.xml",
+
+  "colors": {
+    "background": "#191919",
+    "foreground": "#191919",
+    "infoForeground": "#26282E",
+    "selectionBackground": "#191919",
+    "buttonBackground": "#232323"
+
+  },
+
+  "icons": {
+    "/nodes/folder.svg": "/icons/blank.svg",
+    "/welcome/project/remove.svg": "/icons/remove.svg",
+    "/welcome/project/remove-hover.svg": "/icons/remove-hover.svg",
+    "/welcome/project/removeDisabled.svg": "/icons/removeDisabled.svg",
+    "/welcome/project/removeDisabled-hover.svg": "/icons/removeDisabled-hover.svg",
+    "/welcome/project/remove_dark.svg": "/icons/remove_dark.svg",
+    "/welcome/project/remove-hover_dark.svg": "/icons/remove-hover_dark.svg",
+    "/welcome/project/removeDisabled_dark.svg": "/icons/removeDisabled_dark.svg",
+    "/welcome/project/removeDisabled-hover_dark.svg": "/icons/removeDisabled-hover_dark.svg",
+    "/actions/realIntentionBulb.svg": "/icons/ContextAction-RiderDark.svg",
+    "/actions/refactoringBulb.svg": "/icons/RefactorThis-RiderDark.svg",
+    "/resharper/Bulb/ContextAction.svg": "/icons/ContextAction-RiderDark.svg",
+    "/resharper/Refactorings/RefactorThis.svg": "/icons/RefactorThis-RiderDark.svg"
+  },
+
+  "ui": {
+    "*": {
+      "background": "#191919",
+      "foreground": "#9C9C9C",
+      "selectionForeground": "#589df6",
+      "selectionBackground": "#26282e",
+      "selectionInactiveBackground": "#26282E",
+      "selectionBackgroundInactive": "#26282E",
+      "borderColor": "#191919"
+
+    },
+
+    "Window.border": "1,1,1,1,191919",
+
+    "Label.foreground": "#9C9C9C",
+    "Label.background": "#F6E9C9",
+
+    "Panel.background": "#191919",
+
+    "ToolWindow.Header.background": "#232323",
+    "ToolWindow.Header.inactiveBackground": "#191919",
+    "ToolWindow.HeaderTab.selectedBackground": "#232323",
+    "ToolWindow.HeaderTab.inactiveBackground": "#191919",
+
+    "EditorTabs.underlinedTabBackground": "#191919",
+    "Panel.borderColor": "#191919",
+    "Component.borderColor": "#191919",
+    "EditorTabs.borderColor": "#232323",
+    "ToolWindow.borderColor": "#191919",
+    "Editor.borderColor": "#191919",
+    "Window.borderColor": "#191919",
+    "Button.borderColor": "#191919",
+    "ScrollBar.thumbBorderColor": "#191919",
+    "Popup.borderColor": "#191919",
+    "Separator.foreground": "#191919",
+    "Separator.background": "#191919",
+    "ToolWindow.Header.borderColor": "#232323",
+    "Borders.color": "#191919",
+    "Borders.panelColor": "#191919",
+    "TabbedPane.contentAreaColor": "#191919",
+    "TabbedPane.focusColor": "#191919"
+
+  }
+}

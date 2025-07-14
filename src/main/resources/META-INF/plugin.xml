@@ -1,0 +1,16 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+
+    <id>cool.dark.minimal.theme</id>
+    <name>Dark Cool Theme</name>
+    <vendor email="tiago.diniz@me.com" url="https://github.com/peixekru">Tiago Diniz</vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+    <idea-version since-build="241"/>
+    <resource-bundle>messages.MyBundle</resource-bundle>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="cool.dark.minimal.theme" path="/CoolDark.theme.json"/>
+    </extensions>
+
+</idea-plugin>
